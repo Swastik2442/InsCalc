@@ -1,0 +1,6 @@
+tempCodeRunnerFile.cpp
+/build
+/.vscode
+/test
+*.exe
+/src/main.exe
